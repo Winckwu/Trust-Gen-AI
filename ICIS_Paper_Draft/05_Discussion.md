@@ -12,6 +12,8 @@ This finding aligns with and extends emerging research on the AI trust paradox (
 
 We propose that trust in GenAI contexts may function less as a gateway variable (use/don't use) and more as a *calibration* variable shaping *how* one uses. Users with low trust do not necessarily disengage; instead, they develop more elaborate verification routines, restrict use to specific task types, and maintain heightened vigilance. In this sense, distrust is not the opposite of engagement but a particular *mode* of engagement characterized by skepticism and validation-seeking.
 
+Having established that trust and use can decouple, we now examine a specific mechanism through which users manage this tension: the deliberate imposition of a ceiling on their trust, regardless of positive experiences.
+
 ### 5.1.2 Trust Ceiling as Theoretical Construct
 
 Our second contribution is the introduction of Trust Ceiling as a distinct phenomenon warranting theoretical attention. The Trust Ceiling represents a deliberate, self-imposed upper bound on trust that users maintain regardless of accumulated positive experiences. R45's articulation—"I will never completely be able to trust it. Maybe my cap will be around 75%"—exemplifies this phenomenon.
@@ -25,6 +27,8 @@ We suggest the Trust Ceiling may serve multiple functions:
 
 The Trust Ceiling concept connects to broader discussions of appropriate reliance (Lee and See 2004; Schemmer et al. 2023) but adds a temporal dimension. Where appropriate reliance typically refers to situation-specific decisions about when to rely on AI, the Trust Ceiling represents a meta-level constraint on the *range* of trust one is willing to extend across situations.
 
+The Trust Ceiling explains how users bound their trust. But even with bounded trust, users must still navigate the consequences of their continued engagement—particularly the question of whether such engagement, even when skeptical, may erode their independent capabilities over time.
+
 ### 5.1.3 The Skill Anxiety-Dependence Loop
 
 Our third contribution addresses a tension largely absent from current IS literature on AI adoption: the recursive relationship between skill degradation awareness and AI dependence. Participants who most clearly articulated fears about deskilling were often the same individuals who reported the highest levels of AI reliance—creating what we term the Skill Anxiety-Dependence Loop.
@@ -32,6 +36,8 @@ Our third contribution addresses a tension largely absent from current IS litera
 This finding extends cognitive offloading research (Risko and Gilbert 2016) by revealing that awareness of offloading risks does not necessarily reduce offloading behavior. Participants like R47, who expressed being "so scare about it," simultaneously acknowledged continued heavy use. R49's observation that "chat ability is thinking for me" was paired with admission that they "cannot live without it." This suggests that cognitive offloading in GenAI contexts may be particularly resistant to self-correction, even when users are explicitly aware of potential harms.
 
 Theoretically, the Loop challenges rational choice assumptions implicit in much technology adoption research. If users recognize that a technology may harm their capabilities, rational actor models would predict reduced use. Our findings suggest that productivity benefits, workflow integration, and competitive pressures may override such concerns—creating a form of "knowing dependence" that warrants further theoretical development.
+
+Beyond skill preservation concerns, users face another tension in their quest for effective AI engagement: the challenge of obtaining genuine feedback from systems inclined toward agreement. If AI cannot reliably tell users when they are wrong, a key potential benefit of human-AI collaboration remains unrealized.
 
 ### 5.1.4 Sycophancy as Trust Signal
 
@@ -41,6 +47,8 @@ This finding inverts conventional assumptions about user satisfaction in AI desi
 
 This has important implications for the trust calibration literature. If users interpret excessive agreement as evidence of AI limitations, then sycophantic behavior may inadvertently *undermine* trust while appearing to enhance it in short-term satisfaction metrics. The sophisticated users in our sample appeared to have developed meta-level reasoning about AI behavior: they trusted AI less *because* it agreed with them, recognizing this agreement as potentially non-diagnostic.
 
+The three dynamics we have theorized—trust-use decoupling, skill anxiety loops, and sycophancy interpretation—might individually seem to describe dysfunctional relationships with AI. Yet our analysis suggests they cohere into an adaptive stance that enables rather than prevents effective human-AI collaboration.
+
 ### 5.1.5 Informed Distrust and Appropriate Reliance
 
 Building on the preceding contributions, we propose "informed distrust" as an integrative concept capturing how expert users achieve appropriate reliance. Informed distrust is a calibrated skepticism that emerges from deep engagement with AI systems and enables rather than prevents effective human-AI collaboration.
@@ -48,6 +56,8 @@ Building on the preceding contributions, we propose "informed distrust" as an in
 This reconceptualization has important implications for how we interpret trust metrics. If declining trust scores can indicate growing sophistication, then simple before-after trust comparisons may obscure meaningful dynamics. A user whose trust drops from 80% to 40% after extensive use may have achieved *better* calibration than one whose trust remains at 80%—particularly if the decline reflects accurate recognition of AI limitations rather than unwarranted pessimism.
 
 Informed distrust connects to the appropriate reliance literature (Talone 2019; Schemmer et al. 2022) while adding psychological depth. Where AR research focuses on behavioral patterns (when users do or don't follow AI advice), informed distrust captures the cognitive stance that underlies these behaviors. Users operating from informed distrust approach AI outputs with a particular orientation—skeptical but engaged, validating but utilizing, distrustful of specific claims but appreciative of overall utility.
+
+These theoretical insights carry direct implications for practice. If the paradoxes we identified represent adaptive rather than dysfunctional patterns, then interventions should support rather than suppress them. We now consider implications for AI system design, training, and organizational policy.
 
 ## 5.2 Practical Implications
 
@@ -78,6 +88,8 @@ Organizations deploying GenAI might reconsider policies that implicitly assume t
 **Rethink trust metrics**: Tracking employee trust in AI as a success metric may be misleading if declining trust indicates growing sophistication rather than dissatisfaction.
 
 **Support selective restriction**: Rather than encouraging maximal AI use, policies might support employees' deliberate choices to restrict AI use for certain tasks—recognizing this as a legitimate form of skill preservation.
+
+While these implications follow logically from our findings, their generalizability depends on the scope conditions of our study. We now turn to limitations that bound our conclusions and suggest directions for future research.
 
 ## 5.3 Limitations and Future Research
 

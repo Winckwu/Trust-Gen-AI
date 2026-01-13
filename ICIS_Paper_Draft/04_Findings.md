@@ -18,6 +18,10 @@ Participants reported diverse patterns of trust evolution over their period of G
 
 While rising trust was the most common pattern, consistent with traditional technology adoption trajectories, the substantial presence of declining, bell curve, and task-divergent patterns challenges simplistic models. Moreover, as we elaborate below, even participants with declining trust often exhibited high or increasing use—a finding that demands explanation.
 
+Importantly, these trajectory patterns provide only a descriptive overview. Closer analysis revealed that users with *different* trajectories often navigated *similar* underlying tensions—and users with *similar* trajectories employed quite *different* strategies. For instance, both users whose trust rose (Pattern 1) and those whose trust declined (Pattern 2) frequently described wrestling with the same fundamental tensions between productivity benefits and skepticism. A user whose trust increased from 30% to 70% and another whose trust declined from 80% to 40% might both exhibit the same paradoxical combination of heavy reliance and deliberate verification.
+
+This observation led us to look beyond trajectory categories toward the *paradoxical dynamics* that characterized sophisticated GenAI engagement across trajectory types. Three interconnected paradoxes emerged from this analysis, each representing a form of tension that users navigated regardless of their overall trust trajectory. We present these paradoxes in turn.
+
 ## 4.2 Paradox 1: Trust-Use Decoupling
 
 The most striking finding from our analysis was the frequent disconnect between trust levels and engagement patterns. Counter to theoretical expectations, participants reporting the steepest trust declines were often among the most intensive users. This pattern manifested in several ways.
@@ -33,6 +37,8 @@ Despite this trust decline, R46 reported daily use across multiple platforms and
 > "I see it as a collaborative partner rather than a tool... I always verify, especially for citations. I never trust the citations it gives me." (R46)
 
 This quote reveals that "low trust" may not mean rejection, but rather a recalibrated relationship where verification becomes integral to the workflow. Trust is not a precondition for use but a calibrated expectation that shapes *how* one uses.
+
+If low trust does not prevent high use, a follow-up question arises: is there a point at which trust *would* reduce engagement? Our analysis revealed a phenomenon we term the "Trust Ceiling"—a self-imposed upper limit suggesting that for many sophisticated users, no amount of positive experience will generate complete trust.
 
 ### 4.2.2 The Trust Ceiling Phenomenon
 
@@ -62,6 +68,8 @@ Paradoxically, this crash in reported trust coincided with more sophisticated en
 | R45 | 35% → 60% (cap 75%) | Daily | Domain-specific selective use |
 | R38 | 20% → 80% → 20% | Regular use | Refined mental model of capabilities |
 | R11 | 50% → 30% (for coding) | High frequency | Task-specific trust calibration |
+
+The Trust-Use Paradox establishes that users continue engaging with GenAI despite declining trust. But this raises a deeper question: *why* do they continue? What makes disengagement so difficult even when users recognize AI limitations? One answer lies in a second paradox: users often recognize that their AI reliance may be harming their skills—yet this very awareness does not reduce their dependence.
 
 ## 4.3 Paradox 2: The Skill Anxiety-Dependence Loop
 
@@ -99,6 +107,8 @@ Some participants, however, described active attempts to break the loop. R38, an
 
 R38's use of addiction-like language ("wean myself off") is striking, suggesting that the loop can feel compulsive even to users with deep technical understanding of AI systems.
 
+While Paradox 2 concerns what users fear *losing* through AI reliance—their skills and cognitive capabilities—a third paradox concerns what they struggle to *obtain*: genuine critical feedback. If users cannot trust AI to tell them when they are wrong, the value of AI as an intellectual partner is fundamentally compromised. This tension arises from AI systems' well-documented tendency toward sycophancy.
+
 ## 4.4 Paradox 3: Sycophancy-Skepticism Tension
 
 The third paradox involves users' simultaneous desire for AI validation and distrust of AI systems that provide it too readily. This creates a double bind: AI agreement is suspect, but disagreement may indicate AI error rather than user error.
@@ -110,6 +120,8 @@ Several participants expressed frustration with AI systems that agreed too readi
 > "I correct him and I say, no [the chemistry principle works differently]... And then he said like, 'oh, yes, you're right.' And then it completely change the answer... That was like six, seven months ago." (R47)
 
 The immediate capitulation—without reasoning or defense of the original position—signaled to this participant that the AI lacked genuine understanding and would simply validate whatever the user asserted. This undermined the AI's value as a verification or feedback mechanism.
+
+If excessive agreement erodes trust, what would *increase* it? Remarkably, several participants suggested that AI disagreement—the opposite of what systems are typically trained to provide—would strengthen their confidence in AI capabilities.
 
 ### 4.4.2 Desire for AI Pushback
 
@@ -132,6 +144,8 @@ Users developed nuanced strategies to work around sycophancy concerns. These inc
 - **Treating agreement as non-informative**: Discounting AI validation while still using AI for generation
 
 R48's observation that they would open new chat sessions when stuck—"Sometimes I might even just open a new chat again... If I try to use a new [chat], sometimes it might give me a fresh new idea"—represents another workaround. By resetting context, users could escape the conversational dynamics that might lead AI to converge on previous positions.
+
+The three paradoxes we have described—Trust-Use Decoupling, the Skill Anxiety-Dependence Loop, and Sycophancy-Skepticism Tension—might appear to indicate dysfunction in human-AI relationships. Yet a closer examination suggests these tensions are not pathological but rather constitute an *adaptive* stance that enables effective collaboration despite acknowledged limitations.
 
 ## 4.5 Integration: Informed Distrust as Adaptive Strategy
 
