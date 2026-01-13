@@ -16,7 +16,7 @@ Emerging evidence suggests that the relationship between trust and use in AI con
 
 Recent large-scale surveys have quantified this paradox at a global level. The 2025 KPMG/Melbourne Business School study found that trust in AI has actually *declined* since pre-ChatGPT surveys, even as adoption has surged (Gillespie et al. 2025). Notably, four in five respondents expressed concern about AI risks, and two in five reported experiencing negative impacts—yet usage continued unabated. Perhaps most strikingly, 57% of employees admitted to hiding their AI use at work, and 66% reported relying on AI output without verifying accuracy, suggesting that behavioral engagement may proceed despite, rather than because of, trust.
 
-Several mechanisms have been proposed to explain this paradox. The *optimism bias* account suggests that users may believe AI poses societal risks while considering themselves personally immune (Kantar 2024). The *psychological distance* explanation posits that abstract concerns about AI harm remain cognitively distant compared to immediate productivity benefits (Trope and Liberman 2010). The *verisimilitude paradox* notes that as AI outputs become more human-like and fluent, users struggle to assess accuracy even as they find outputs compelling (Wikipedia 2024). However, these explanations have not been empirically examined in the context of experienced, professional GenAI users who have accumulated substantial interaction history with these systems.
+Several mechanisms have been proposed to explain this paradox. The *optimism bias* account suggests that users may believe AI poses societal risks while considering themselves personally immune (Kantar 2024). The *psychological distance* explanation posits that abstract concerns about AI harm remain cognitively distant compared to immediate productivity benefits (Trope and Liberman 2010). Additionally, as AI outputs become more human-like and fluent, users may struggle to assess accuracy even as they find outputs compelling (Jakesch et al. 2023). However, these explanations have not been empirically examined in the context of experienced, professional GenAI users who have accumulated substantial interaction history with these systems.
 
 ## 2.3 Cognitive Offloading and Skill Degradation Concerns
 
@@ -53,6 +53,8 @@ These gaps motivate our research questions:
 **RQ2:** How do users navigate the tension between declining trust and continuing (or increasing) GenAI engagement?
 
 **RQ3:** What strategies do users develop to manage skill degradation concerns while maintaining productivity benefits?
+
+**RQ4:** How do users respond to AI sycophancy, and what does this reveal about their trust calibration processes?
 
 By addressing these questions through in-depth qualitative inquiry, we aim to develop theoretical understanding of how sophisticated users construct and maintain productive relationships with GenAI systems despite—and perhaps because of—their declining trust.
 

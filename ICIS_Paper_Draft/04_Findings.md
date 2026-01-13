@@ -48,11 +48,11 @@ The Trust Ceiling represents a deliberate choice to maintain skepticism as a pro
 
 ### 4.2.3 Inverse Trust-Use Relationships
 
-In some cases, declining trust appeared to *increase* rather than decrease engagement. R10, an expert-level user with daily engagement across multiple tools, described a trust trajectory that peaked and then declined dramatically:
+In some cases, declining trust appeared to *increase* rather than decrease engagement. R38, an AI researcher with deep domain expertise, described a trust trajectory that followed a striking bell curve pattern:
 
-> "I think around three years ago it was around 20%. Then, I think in 2024 and early 2025 it went up to 80-90% at its peak. But now it's like 20%... [Yet] I read literature, experts' interviews that talk about limitations of gen AI. Now I know better what kind of task it is supposed to handle. I have a better mental model on what kind of task I can assign it." (R10)
+> "It follows like bell curve or something. Initially... around 20%. Then I think peak in 2024... maybe 80% or 90% even in the peak. Now I think it's like 20%... Because I'm quite involved in the field of AI... I read literatures or interviews that talk about limitation. I have better mental model on what kind of task I can assign it." (R38)
 
-Paradoxically, this crash in reported trust coincided with more sophisticated, intensive use patterns. The participant explained that lower trust reflected *better understanding* rather than rejection—a distinction with important theoretical implications.
+Paradoxically, this crash in reported trust coincided with more sophisticated engagement patterns. The participant explained that lower trust reflected *better understanding* rather than rejection—a distinction with important theoretical implications. R38 explicitly connected declining trust to increased expertise: knowing AI limitations enabled more effective use.
 
 **Table 3: Trust-Use Decoupling Examples**
 
@@ -60,7 +60,7 @@ Paradoxically, this crash in reported trust coincided with more sophisticated, i
 |-------------|------------------|-------------|---------------------|
 | R46 | 50% → 30% | Daily, multi-platform | Built custom validation tools |
 | R45 | 35% → 60% (cap 75%) | Daily | Domain-specific selective use |
-| R10 | 20% → 80% → 20% | Multiple times daily | Refined mental model of capabilities |
+| R38 | 20% → 80% → 20% | Regular use | Refined mental model of capabilities |
 | R11 | 50% → 30% (for coding) | High frequency | Task-specific trust calibration |
 
 ## 4.3 Paradox 2: The Skill Anxiety-Dependence Loop
@@ -93,6 +93,12 @@ Others found the loop difficult to escape. R49, a chemical engineering student, 
 
 The acknowledgment "I have to agree" suggests a somewhat reluctant acceptance of dependency—a recognition that the loop, once entered, is difficult to exit.
 
+Some participants, however, described active attempts to break the loop. R38, an AI researcher who had experienced a dramatic trust decline, described deliberate efforts to reduce dependence:
+
+> "I wean myself off this habit of depending on it... I try not to write with ChatGPT. My writing is entirely done by me... I think it's quite cognitively dangerous." (R38)
+
+R38's use of addiction-like language ("wean myself off") is striking, suggesting that the loop can feel compulsive even to users with deep technical understanding of AI systems.
+
 ## 4.4 Paradox 3: Sycophancy-Skepticism Tension
 
 The third paradox involves users' simultaneous desire for AI validation and distrust of AI systems that provide it too readily. This creates a double bind: AI agreement is suspect, but disagreement may indicate AI error rather than user error.
@@ -107,11 +113,15 @@ The immediate capitulation—without reasoning or defense of the original positi
 
 ### 4.4.2 Desire for AI Pushback
 
-Remarkably, several participants explicitly wished AI systems would disagree with them more often. R48 articulated this desire clearly:
+Remarkably, several participants explicitly wished AI systems would disagree with them more often. R34, a computational chemistry postdoctoral researcher, articulated this most directly:
+
+> "If it can argue with me, then I would have a higher trust." (R34)
+
+This counterintuitive statement—that argumentation would *increase* trust—reveals sophisticated reasoning about what AI agreement actually signals. R34 recognized that an AI that consistently agrees provides no independent verification value. Similarly, R48 expressed:
 
 > "They know how to... reject your idea. It's not like the user, the things user provide is always the best." (R48)
 
-This statement, expressing a wish that AI would "reject" user ideas, runs counter to assumptions embedded in AI training toward helpfulness and user satisfaction. For sophisticated users, an AI that challenges their thinking may be more valuable than one that validates it—precisely because challenge signals independent reasoning capability.
+These statements, expressing wishes that AI would "argue" or "reject" user ideas, run counter to assumptions embedded in AI training toward helpfulness and user satisfaction. For sophisticated users, an AI that challenges their thinking may be more valuable than one that validates it—precisely because challenge signals independent reasoning capability.
 
 ### 4.4.3 Navigating the Double Bind
 

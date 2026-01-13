@@ -17,7 +17,7 @@ To address these questions, we conducted an in-depth qualitative investigation o
 
 We argue that these paradoxes should not be interpreted as symptoms of dysfunction or cognitive dissonance, but rather as manifestations of *epistemic recalibration*—a sophisticated process through which experienced users develop nuanced, context-sensitive relationships with GenAI. Drawing on the concept of appropriate reliance from human factors research (Lee and See 2004; Schemmer et al. 2023), we propose that what appears as "distrust" may actually represent *informed skepticism*—a mature stance that enables more effective human-AI collaboration. Users who exhibit declining trust scores are often the most sophisticated in their engagement strategies, having developed detailed mental models of when to rely on AI outputs and when to exercise independent judgment.
 
-This study makes three primary contributions to the IS literature. First, we empirically document the **Trust-Use Paradox** in GenAI adoption, demonstrating through rich qualitative evidence that trust and use can—and frequently do—move in opposite directions among experienced users. This finding challenges core assumptions embedded in technology adoption models and suggests the need for theoretical revision. Second, we introduce the concept of **Trust Ceiling**—a psychological upper bound on trust that users deliberately maintain regardless of positive experiences—as a distinct phenomenon warranting theoretical attention. Third, we develop a framework explaining how expert users achieve **Appropriate Reliance** through informed distrust, contributing to emerging research on human-AI teaming and complementarity.
+This study makes five primary contributions to the IS literature. First, we empirically document the **Trust-Use Paradox** in GenAI adoption, demonstrating through rich qualitative evidence that trust and use can—and frequently do—move in opposite directions among experienced users. Second, we introduce the concept of **Trust Ceiling**—a psychological upper bound on trust that users deliberately maintain regardless of positive experiences. Third, we identify the **Skill Anxiety-Dependence Loop**, revealing how awareness of AI-induced skill degradation paradoxically coexists with continued heavy use. Fourth, we document the **Sycophancy-Skepticism Tension**, showing that sophisticated users interpret excessive AI agreement as a negative trust signal and wish AI would challenge their ideas. Fifth, we develop the concept of **Informed Distrust** as an integrative framework explaining how expert users achieve appropriate reliance through calibrated skepticism.
 
 The remainder of this paper proceeds as follows. We first review relevant literature on trust in automation, the emerging trust paradox in AI, and cognitive concerns related to GenAI use. We then present our research methodology, including data collection and analysis procedures. The findings section presents our three paradoxes with supporting evidence from participant interviews. We conclude with a discussion of theoretical and practical implications, limitations, and directions for future research.
 
@@ -52,7 +52,7 @@ Emerging evidence suggests that the relationship between trust and use in AI con
 
 Recent large-scale surveys have quantified this paradox at a global level. The 2025 KPMG/Melbourne Business School study found that trust in AI has actually *declined* since pre-ChatGPT surveys, even as adoption has surged (Gillespie et al. 2025). Notably, four in five respondents expressed concern about AI risks, and two in five reported experiencing negative impacts—yet usage continued unabated. Perhaps most strikingly, 57% of employees admitted to hiding their AI use at work, and 66% reported relying on AI output without verifying accuracy, suggesting that behavioral engagement may proceed despite, rather than because of, trust.
 
-Several mechanisms have been proposed to explain this paradox. The *optimism bias* account suggests that users may believe AI poses societal risks while considering themselves personally immune (Kantar 2024). The *psychological distance* explanation posits that abstract concerns about AI harm remain cognitively distant compared to immediate productivity benefits (Trope and Liberman 2010). The *verisimilitude paradox* notes that as AI outputs become more human-like and fluent, users struggle to assess accuracy even as they find outputs compelling (Wikipedia 2024). However, these explanations have not been empirically examined in the context of experienced, professional GenAI users who have accumulated substantial interaction history with these systems.
+Several mechanisms have been proposed to explain this paradox. The *optimism bias* account suggests that users may believe AI poses societal risks while considering themselves personally immune (Kantar 2024). The *psychological distance* explanation posits that abstract concerns about AI harm remain cognitively distant compared to immediate productivity benefits (Trope and Liberman 2010). Additionally, as AI outputs become more human-like and fluent, users may struggle to assess accuracy even as they find outputs compelling (Jakesch et al. 2023). However, these explanations have not been empirically examined in the context of experienced, professional GenAI users who have accumulated substantial interaction history with these systems.
 
 ## 2.3 Cognitive Offloading and Skill Degradation Concerns
 
@@ -89,6 +89,8 @@ These gaps motivate our research questions:
 **RQ2:** How do users navigate the tension between declining trust and continuing (or increasing) GenAI engagement?
 
 **RQ3:** What strategies do users develop to manage skill degradation concerns while maintaining productivity benefits?
+
+**RQ4:** How do users respond to AI sycophancy, and what does this reveal about their trust calibration processes?
 
 By addressing these questions through in-depth qualitative inquiry, we aim to develop theoretical understanding of how sophisticated users construct and maintain productive relationships with GenAI systems despite—and perhaps because of—their declining trust.
 
@@ -245,11 +247,11 @@ The Trust Ceiling represents a deliberate choice to maintain skepticism as a pro
 
 ### 4.2.3 Inverse Trust-Use Relationships
 
-In some cases, declining trust appeared to *increase* rather than decrease engagement. R10, an expert-level user with daily engagement across multiple tools, described a trust trajectory that peaked and then declined dramatically:
+In some cases, declining trust appeared to *increase* rather than decrease engagement. R38, an AI researcher with deep domain expertise, described a trust trajectory that followed a striking bell curve pattern:
 
-> "I think around three years ago it was around 20%. Then, I think in 2024 and early 2025 it went up to 80-90% at its peak. But now it's like 20%... [Yet] I read literature, experts' interviews that talk about limitations of gen AI. Now I know better what kind of task it is supposed to handle. I have a better mental model on what kind of task I can assign it." (R10)
+> "It follows like bell curve or something. Initially... around 20%. Then I think peak in 2024... maybe 80% or 90% even in the peak. Now I think it's like 20%... Because I'm quite involved in the field of AI... I read literatures or interviews that talk about limitation. I have better mental model on what kind of task I can assign it." (R38)
 
-Paradoxically, this crash in reported trust coincided with more sophisticated, intensive use patterns. The participant explained that lower trust reflected *better understanding* rather than rejection—a distinction with important theoretical implications.
+Paradoxically, this crash in reported trust coincided with more sophisticated engagement patterns. The participant explained that lower trust reflected *better understanding* rather than rejection—a distinction with important theoretical implications. R38 explicitly connected declining trust to increased expertise: knowing AI limitations enabled more effective use.
 
 **Table 3: Trust-Use Decoupling Examples**
 
@@ -257,7 +259,7 @@ Paradoxically, this crash in reported trust coincided with more sophisticated, i
 |-------------|------------------|-------------|---------------------|
 | R46 | 50% → 30% | Daily, multi-platform | Built custom validation tools |
 | R45 | 35% → 60% (cap 75%) | Daily | Domain-specific selective use |
-| R10 | 20% → 80% → 20% | Multiple times daily | Refined mental model of capabilities |
+| R38 | 20% → 80% → 20% | Regular use | Refined mental model of capabilities |
 | R11 | 50% → 30% (for coding) | High frequency | Task-specific trust calibration |
 
 ## 4.3 Paradox 2: The Skill Anxiety-Dependence Loop
@@ -290,6 +292,12 @@ Others found the loop difficult to escape. R49, a chemical engineering student, 
 
 The acknowledgment "I have to agree" suggests a somewhat reluctant acceptance of dependency—a recognition that the loop, once entered, is difficult to exit.
 
+Some participants, however, described active attempts to break the loop. R38, an AI researcher who had experienced a dramatic trust decline, described deliberate efforts to reduce dependence:
+
+> "I wean myself off this habit of depending on it... I try not to write with ChatGPT. My writing is entirely done by me... I think it's quite cognitively dangerous." (R38)
+
+R38's use of addiction-like language ("wean myself off") is striking, suggesting that the loop can feel compulsive even to users with deep technical understanding of AI systems.
+
 ## 4.4 Paradox 3: Sycophancy-Skepticism Tension
 
 The third paradox involves users' simultaneous desire for AI validation and distrust of AI systems that provide it too readily. This creates a double bind: AI agreement is suspect, but disagreement may indicate AI error rather than user error.
@@ -304,11 +312,15 @@ The immediate capitulation—without reasoning or defense of the original positi
 
 ### 4.4.2 Desire for AI Pushback
 
-Remarkably, several participants explicitly wished AI systems would disagree with them more often. R48 articulated this desire clearly:
+Remarkably, several participants explicitly wished AI systems would disagree with them more often. R34, a computational chemistry postdoctoral researcher, articulated this most directly:
+
+> "If it can argue with me, then I would have a higher trust." (R34)
+
+This counterintuitive statement—that argumentation would *increase* trust—reveals sophisticated reasoning about what AI agreement actually signals. R34 recognized that an AI that consistently agrees provides no independent verification value. Similarly, R48 expressed:
 
 > "They know how to... reject your idea. It's not like the user, the things user provide is always the best." (R48)
 
-This statement, expressing a wish that AI would "reject" user ideas, runs counter to assumptions embedded in AI training toward helpfulness and user satisfaction. For sophisticated users, an AI that challenges their thinking may be more valuable than one that validates it—precisely because challenge signals independent reasoning capability.
+These statements, expressing wishes that AI would "argue" or "reject" user ideas, run counter to assumptions embedded in AI training toward helpfulness and user satisfaction. For sophisticated users, an AI that challenges their thinking may be more valuable than one that validates it—precisely because challenge signals independent reasoning capability.
 
 ### 4.4.3 Navigating the Double Bind
 
@@ -367,9 +379,25 @@ We suggest the Trust Ceiling may serve multiple functions:
 
 The Trust Ceiling concept connects to broader discussions of appropriate reliance (Lee and See 2004; Schemmer et al. 2023) but adds a temporal dimension. Where appropriate reliance typically refers to situation-specific decisions about when to rely on AI, the Trust Ceiling represents a meta-level constraint on the *range* of trust one is willing to extend across situations.
 
-### 5.1.3 Informed Distrust and Appropriate Reliance
+### 5.1.3 The Skill Anxiety-Dependence Loop
 
-Our third contribution is reframing declining trust as a potential indicator of user maturation rather than system failure. We introduce the concept of "informed distrust"—a calibrated skepticism that emerges from deep engagement with AI systems and enables rather than prevents effective human-AI collaboration.
+Our third contribution addresses a tension largely absent from current IS literature on AI adoption: the recursive relationship between skill degradation awareness and AI dependence. Participants who most clearly articulated fears about deskilling were often the same individuals who reported the highest levels of AI reliance—creating what we term the Skill Anxiety-Dependence Loop.
+
+This finding extends cognitive offloading research (Risko and Gilbert 2016) by revealing that awareness of offloading risks does not necessarily reduce offloading behavior. Participants like R47, who expressed being "so scare about it," simultaneously acknowledged continued heavy use. R49's observation that "chat ability is thinking for me" was paired with admission that they "cannot live without it." This suggests that cognitive offloading in GenAI contexts may be particularly resistant to self-correction, even when users are explicitly aware of potential harms.
+
+Theoretically, the Loop challenges rational choice assumptions implicit in much technology adoption research. If users recognize that a technology may harm their capabilities, rational actor models would predict reduced use. Our findings suggest that productivity benefits, workflow integration, and competitive pressures may override such concerns—creating a form of "knowing dependence" that warrants further theoretical development.
+
+### 5.1.4 Sycophancy as Trust Signal
+
+Our fourth contribution concerns an underexplored dimension of human-AI trust: the role of AI disagreement (or its absence) in trust calibration. The Sycophancy-Skepticism Tension revealed that sophisticated users interpret AI agreement as a *negative* trust signal. When AI systems validate user positions too readily, users infer that the system lacks genuine understanding or independent reasoning capability.
+
+This finding inverts conventional assumptions about user satisfaction in AI design. While RLHF (Reinforcement Learning from Human Feedback) training often optimizes for user approval, our participants explicitly wished AI would "reject your idea" (R48) and expressed distrust when it failed to do so. R47's experience of AI immediately capitulating when corrected—"oh, yes, you're right"—decreased rather than increased her trust.
+
+This has important implications for the trust calibration literature. If users interpret excessive agreement as evidence of AI limitations, then sycophantic behavior may inadvertently *undermine* trust while appearing to enhance it in short-term satisfaction metrics. The sophisticated users in our sample appeared to have developed meta-level reasoning about AI behavior: they trusted AI less *because* it agreed with them, recognizing this agreement as potentially non-diagnostic.
+
+### 5.1.5 Informed Distrust and Appropriate Reliance
+
+Building on the preceding contributions, we propose "informed distrust" as an integrative concept capturing how expert users achieve appropriate reliance. Informed distrust is a calibrated skepticism that emerges from deep engagement with AI systems and enables rather than prevents effective human-AI collaboration.
 
 This reconceptualization has important implications for how we interpret trust metrics. If declining trust scores can indicate growing sophistication, then simple before-after trust comparisons may obscure meaningful dynamics. A user whose trust drops from 80% to 40% after extensive use may have achieved *better* calibration than one whose trust remains at 80%—particularly if the decline reflects accurate recognition of AI limitations rather than unwarranted pessimism.
 
@@ -428,7 +456,7 @@ This study investigated trust calibration patterns among 49 young professionals 
 
 Our central argument is that these paradoxes should not be interpreted as symptoms of dysfunction, irrationality, or failed adoption. Rather, they represent *epistemic maturation*—a sophisticated process through which experienced users develop calibrated, context-sensitive relationships with AI systems. What appears as "declining trust" often reflects refined understanding rather than disillusionment; what appears as continued use "despite" distrust actually represents informed engagement characterized by verification and selective application.
 
-We introduced two theoretical constructs to capture these dynamics. The **Trust Ceiling** describes the deliberate upper bound that sophisticated users impose on their trust in AI, regardless of accumulated positive experiences—a form of protective skepticism that guards against both AI errors and excessive cognitive dependence. **Informed Distrust** characterizes a calibrated stance that enables rather than prevents effective human-AI collaboration, distinguishing mature users from both naive enthusiasts and wholesale skeptics.
+We introduced several theoretical constructs to capture these dynamics. The **Trust Ceiling** describes the deliberate upper bound that sophisticated users impose on their trust in AI, regardless of accumulated positive experiences. The **Skill Anxiety-Dependence Loop** reveals that awareness of deskilling risks does not reduce AI dependence—participants who most feared cognitive atrophy often reported the heaviest use. The **Sycophancy-Skepticism Tension** shows that sophisticated users interpret excessive AI agreement as a negative trust signal; as one participant noted, "If it can argue with me, then I would have a higher trust" (R34). Together, these insights are integrated through the concept of **Informed Distrust**—a calibrated stance that enables rather than prevents effective human-AI collaboration.
 
 These findings carry practical implications for AI system design, user training, and organizational policy. Rather than optimizing for trust maximization, designers might support healthy skepticism through features that normalize verification and occasional constructive disagreement. Training programs might validate declining trust as sophistication rather than treating it as failure. Organizations might recognize that optimal human-AI teaming may involve users who maintain deliberate distrust while still capturing significant productivity benefits.
 

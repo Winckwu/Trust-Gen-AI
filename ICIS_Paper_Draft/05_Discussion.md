@@ -25,9 +25,25 @@ We suggest the Trust Ceiling may serve multiple functions:
 
 The Trust Ceiling concept connects to broader discussions of appropriate reliance (Lee and See 2004; Schemmer et al. 2023) but adds a temporal dimension. Where appropriate reliance typically refers to situation-specific decisions about when to rely on AI, the Trust Ceiling represents a meta-level constraint on the *range* of trust one is willing to extend across situations.
 
-### 5.1.3 Informed Distrust and Appropriate Reliance
+### 5.1.3 The Skill Anxiety-Dependence Loop
 
-Our third contribution is reframing declining trust as a potential indicator of user maturation rather than system failure. We introduce the concept of "informed distrust"—a calibrated skepticism that emerges from deep engagement with AI systems and enables rather than prevents effective human-AI collaboration.
+Our third contribution addresses a tension largely absent from current IS literature on AI adoption: the recursive relationship between skill degradation awareness and AI dependence. Participants who most clearly articulated fears about deskilling were often the same individuals who reported the highest levels of AI reliance—creating what we term the Skill Anxiety-Dependence Loop.
+
+This finding extends cognitive offloading research (Risko and Gilbert 2016) by revealing that awareness of offloading risks does not necessarily reduce offloading behavior. Participants like R47, who expressed being "so scare about it," simultaneously acknowledged continued heavy use. R49's observation that "chat ability is thinking for me" was paired with admission that they "cannot live without it." This suggests that cognitive offloading in GenAI contexts may be particularly resistant to self-correction, even when users are explicitly aware of potential harms.
+
+Theoretically, the Loop challenges rational choice assumptions implicit in much technology adoption research. If users recognize that a technology may harm their capabilities, rational actor models would predict reduced use. Our findings suggest that productivity benefits, workflow integration, and competitive pressures may override such concerns—creating a form of "knowing dependence" that warrants further theoretical development.
+
+### 5.1.4 Sycophancy as Trust Signal
+
+Our fourth contribution concerns an underexplored dimension of human-AI trust: the role of AI disagreement (or its absence) in trust calibration. The Sycophancy-Skepticism Tension revealed that sophisticated users interpret AI agreement as a *negative* trust signal. When AI systems validate user positions too readily, users infer that the system lacks genuine understanding or independent reasoning capability.
+
+This finding inverts conventional assumptions about user satisfaction in AI design. While RLHF (Reinforcement Learning from Human Feedback) training often optimizes for user approval, our participants explicitly wished AI would "reject your idea" (R48) and expressed distrust when it failed to do so. R47's experience of AI immediately capitulating when corrected—"oh, yes, you're right"—decreased rather than increased her trust.
+
+This has important implications for the trust calibration literature. If users interpret excessive agreement as evidence of AI limitations, then sycophantic behavior may inadvertently *undermine* trust while appearing to enhance it in short-term satisfaction metrics. The sophisticated users in our sample appeared to have developed meta-level reasoning about AI behavior: they trusted AI less *because* it agreed with them, recognizing this agreement as potentially non-diagnostic.
+
+### 5.1.5 Informed Distrust and Appropriate Reliance
+
+Building on the preceding contributions, we propose "informed distrust" as an integrative concept capturing how expert users achieve appropriate reliance. Informed distrust is a calibrated skepticism that emerges from deep engagement with AI systems and enables rather than prevents effective human-AI collaboration.
 
 This reconceptualization has important implications for how we interpret trust metrics. If declining trust scores can indicate growing sophistication, then simple before-after trust comparisons may obscure meaningful dynamics. A user whose trust drops from 80% to 40% after extensive use may have achieved *better* calibration than one whose trust remains at 80%—particularly if the decline reflects accurate recognition of AI limitations rather than unwarranted pessimism.
 
