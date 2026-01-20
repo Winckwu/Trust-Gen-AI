@@ -651,15 +651,25 @@ As GenAI tools become ever more deeply embedded in knowledge work, understanding
 
 # References
 
+Alter, A. (2017). *Irresistible: The Rise of Addictive Technology and the Business of Keeping Us Hooked*. Penguin Press.
+
+Amershi, S., Weld, D., Vorvoreanu, M., Fourney, A., Nushi, B., Collisson, P., ... & Horvitz, E. (2019). Guidelines for human-AI interaction. *Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems* (pp. 1-13).
+
+Bansal, G., Nushi, B., Kamar, E., Weld, D. S., Lasecki, W. S., & Horvitz, E. (2019). Updates in human-AI teams: Understanding and addressing the performance/compatibility tradeoff. *Proceedings of the AAAI Conference on Artificial Intelligence*, 33(01), 2429-2437.
+
 Bastani, H., Bastani, O., Sungu, A., Ge, H., Kabakcı, Ö., & Mariman, R. (2024). Generative AI can harm learning. *SSRN Working Paper*.
 
 Braun, V., & Clarke, V. (2006). Using thematic analysis in psychology. *Qualitative Research in Psychology*, 3(2), 77-101.
 
 Brynjolfsson, E., Li, D., & Raymond, L. R. (2023). Generative AI at work. *NBER Working Paper No. 31161*.
 
+Carr, N. (2010). *The Shallows: What the Internet Is Doing to Our Brains*. W.W. Norton.
+
 Choung, H., David, P., & Ross, A. (2023). Trust in AI and its role in the acceptance of AI technologies. *International Journal of Human–Computer Interaction*, 39(9), 1727-1739.
 
 Corbin, J., & Strauss, A. (2008). *Basics of Qualitative Research: Techniques and Procedures for Developing Grounded Theory* (3rd ed.). Sage.
+
+Davidson, D. (1970). How is weakness of the will possible? In J. Feinberg (Ed.), *Moral Concepts* (pp. 93-113). Oxford University Press.
 
 Davis, F. D. (1989). Perceived usefulness, perceived ease of use, and user acceptance of information technology. *MIS Quarterly*, 13(3), 319-340.
 
@@ -675,7 +685,13 @@ Glikson, E., & Woolley, A. W. (2020). Human trust in artificial intelligence: Re
 
 Guest, G., Bunce, A., & Johnson, L. (2006). How many interviews are enough? An experiment with data saturation and variability. *Field Methods*, 18(1), 59-82.
 
+Hertwig, R., & Grüne-Yanoff, T. (2017). Nudging and boosting: Steering or empowering good decisions. *Perspectives on Psychological Science*, 12(6), 973-986.
+
+Hovland, C. I., & Weiss, W. (1951). The influence of source credibility on communication effectiveness. *Public Opinion Quarterly*, 15(4), 635-650.
+
 Ji, Z., Lee, N., Frieske, R., Yu, T., Su, D., Xu, Y., ... & Fung, P. (2023). Survey of hallucination in natural language generation. *ACM Computing Surveys*, 55(12), 1-38.
+
+Kahneman, D., & Tversky, A. (1979). Prospect theory: An analysis of decision under risk. *Econometrica*, 47(2), 263-292.
 
 Kim, J., Lee, S., & Park, Y. (2025). A validation of the Human-Generative Artificial Intelligence Trust Scale. *International Journal of Human–Computer Interaction*.
 
@@ -684,6 +700,8 @@ Klein, H. K., & Myers, M. D. (1999). A set of principles for conducting and eval
 Lee, J. D., & Moray, N. (1992). Trust, control strategies and allocation of function in human-machine systems. *Ergonomics*, 35(10), 1243-1270.
 
 Lee, J. D., & See, K. A. (2004). Trust in automation: Designing for appropriate reliance. *Human Factors*, 46(1), 50-80.
+
+Levitt, B., & March, J. G. (1988). Organizational learning. *Annual Review of Sociology*, 14(1), 319-338.
 
 Liao, Q. V., & Vaughan, J. W. (2024). AI transparency in the age of LLMs: A human-centered research roadmap. *Harvard Data Science Review*.
 
@@ -713,6 +731,10 @@ Schemmer, M., Kuehl, N., Benz, C., Bartos, A., & Satzger, G. (2023). Appropriate
 
 Sharma, M., Tong, M., Korbak, T., Duvenaud, D., Askell, A., Bowman, S. R., ... & Perez, E. (2023). Towards understanding sycophancy in language models. *arXiv preprint arXiv:2310.13548*.
 
+Simon, H. A. (1956). Rational choice and the structure of the environment. *Psychological Review*, 63(2), 129-138.
+
+Spence, M. (1973). Job market signaling. *Quarterly Journal of Economics*, 87(3), 355-374.
+
 Talone, A. (2019). *The effect of reliability information and risk on appropriate reliance in an autonomous robot teammate*. Doctoral dissertation, University of Central Florida.
 
 Thiele, L. P. (2025). Deskilling: The atrophy of cognitive and social aptitudes. In *Human Agency, Artificial Intelligence, and the Attention Economy* (pp. 75-98). Palgrave Macmillan.
@@ -729,4 +751,4 @@ Wei, J., Tay, Y., Bommasani, R., Raffel, C., Zoph, B., Borgeaud, S., ... & Fedus
 
 ---
 
-*Total Estimated Word Count: ~7,100 words (~16 pages in ICIS format)*
+*Total Estimated Word Count: ~11,500 words*
