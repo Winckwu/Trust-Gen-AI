@@ -24,11 +24,21 @@ This observation led us to look beyond trajectory categories toward the *paradox
 
 ## 4.2 Paradox 1: Trust-Use Decoupling
 
-The most striking finding from our analysis was the frequent disconnect between trust levels and engagement patterns. Counter to theoretical expectations, participants reporting the steepest trust declines were often among the most intensive users. This pattern manifested in several ways.
+The most striking finding from our analysis was the frequent disconnect between trust levels and engagement patterns. Counter to theoretical expectations, participants reporting the steepest trust declines were often among the most intensive users. As shown in Table 3, this paradox was evident across a substantial portion of our sample.
+
+**Table 3: Paradox Prevalence Across Sample**
+
+| Paradox | Strong Evidence | Moderate Evidence | Not Present |
+|---------|-----------------|-------------------|-------------|
+| Trust-Use Decoupling | 15 (30.6%) | 18 (36.7%) | 16 (32.7%) |
+| Skill Anxiety-Dependence Loop | 12 (24.5%) | 16 (32.7%) | 21 (42.9%) |
+| Sycophancy-Skepticism Tension | 8 (16.3%) | 14 (28.6%) | 27 (55.1%) |
+
+*Note: "Strong Evidence" = participant explicitly articulated the paradox; "Moderate Evidence" = behaviors consistent with paradox but not explicitly articulated; "Not Present" = no evidence of paradox or contradictory pattern.*
 
 ### 4.2.1 High Use Despite Low Trust
 
-Several participants explicitly articulated their awareness that they continued relying on tools they did not trust. R46, a Master's student in Learning Science who built a custom chatbot interfacing with multiple AI models, exemplified this pattern:
+Across our sample, 33 participants (67.3%) exhibited some form of trust-use decoupling, continuing or increasing use despite stagnant or declining trust. R46, a Master's student in Learning Science who built a custom chatbot interfacing with multiple AI models, exemplified this pattern:
 
 > "When I first started using it, I would say [my trust was] around 50.... I seem to trust the AI less [now]... maybe around 30. I think. [The hallucination problem] is still quite prevalent. I found that 3 or 4 of [the journal articles it cited] do not exist." (R46)
 
@@ -37,6 +47,16 @@ Despite this trust decline, R46 reported daily use across multiple platforms and
 > "I see it as a collaborative partner rather than a tool... I always verify, especially for citations. I never trust the citations it gives me." (R46)
 
 This quote reveals that "low trust" may not mean rejection, but rather a recalibrated relationship where verification becomes integral to the workflow. Trust is not a precondition for use but a calibrated expectation that shapes *how* one uses.
+
+This pattern was echoed across professional contexts. R1, a marketing PhD student at a Chinese university, described a similar trajectory:
+
+> "I generally treat [GPT output] as a draft, and then modify it according to the actual situation myself... I've learned from my experience with GPT to find the most time-efficient approach for me." (R1, translated from Chinese)
+
+R2, an accounting PhD student who used ChatGPT daily (keeping it pinned to her browser homepage), articulated the same paradox:
+
+> "When I first started using ChatGPT, I would imagine 'OK, he should be able to help me modify it properly.' But later... I found it cannot modify things to my standard. [Yet] I use it every day." (R2, translated from Chinese)
+
+Both participants exhibited classic trust-use decoupling: initial optimism gave way to lowered expectations, yet usage remained constant or increased. The resolution was not abandonment but *recalibration*—adjusting expectations and developing verification strategies.
 
 If low trust does not prevent high use, a follow-up question arises: is there a point at which trust *would* reduce engagement? Our analysis revealed a phenomenon we term the "Trust Ceiling"—a self-imposed upper limit suggesting that for many sophisticated users, no amount of positive experience will generate complete trust.
 
@@ -60,14 +80,17 @@ In some cases, declining trust appeared to *increase* rather than decrease engag
 
 Paradoxically, this crash in reported trust coincided with more sophisticated engagement patterns. The participant explained that lower trust reflected *better understanding* rather than rejection—a distinction with important theoretical implications. R38 explicitly connected declining trust to increased expertise: knowing AI limitations enabled more effective use.
 
-**Table 3: Trust-Use Decoupling Examples**
+**Table 4: Trust-Use Decoupling Examples**
 
-| Participant | Trust Trajectory | Use Pattern | Resolution Strategy |
-|-------------|------------------|-------------|---------------------|
-| R46 | 50% → 30% | Daily, multi-platform | Built custom validation tools |
-| R45 | 35% → 60% (cap 75%) | Daily | Domain-specific selective use |
-| R38 | 20% → 80% → 20% | Regular use | Refined mental model of capabilities |
-| R11 | 50% → 30% (for coding) | High frequency | Task-specific trust calibration |
+| Participant | Background | Trust Trajectory | Use Pattern | Resolution Strategy |
+|-------------|------------|------------------|-------------|---------------------|
+| R1 | Marketing PhD (China) | High → Lower | Daily, 5+ days/week | "Draft positioning" - treat output as starting point |
+| R2 | Accounting PhD (China) | Optimistic → Realistic | Daily (pinned to browser) | "One-version rule" - don't expect iterative improvement |
+| R3 | Management PhD (China) | Moderate | Daily | Double verification with literature |
+| R11 | Product Manager (ByteDance) | 50% → 30% (coding) | Daily | Task-specific trust calibration |
+| R38 | AI Researcher | 20% → 80% → 20% | Regular | Refined mental model of capabilities |
+| R45 | Biomedical Researcher | 35% → 60% (cap 75%) | Daily | Domain-specific selective use |
+| R46 | Learning Science MS | 50% → 30% | Daily, multi-platform | Built custom validation tools |
 
 The Trust-Use Paradox establishes that users continue engaging with GenAI despite declining trust. But this raises a deeper question: *why* do they continue? What makes disengagement so difficult even when users recognize AI limitations? One answer lies in a second paradox: users often recognize that their AI reliance may be harming their skills—yet this very awareness does not reduce their dependence.
 
@@ -86,6 +109,16 @@ This participant's response was notable for its embodied quality—she was not a
 > "I think that's the case where my writing skill, I would say my writing skill is not really that good. Cuz I, we can just use [ChatGPT] for most sort of stuff... Maybe I need to came up with a question... Maybe I can come up with one or two. But if I just ask [ChatGPT] to give me 10 or 20, they can just give [them]." (R48)
 
 The phrase "chat ability is thinking for me" (R49) captured this dynamic succinctly—participants recognized that cognitive work was being displaced, not merely assisted.
+
+This concern appeared across career stages and domains. R17, a financial economics researcher, connected AI use to a visceral sense of diminished capacity:
+
+> "I even have some difficulty picking up a pen [to write]... if you always rely on it to help you write things." (R17, translated from Chinese)
+
+R28, a university marketing manager, offered similar reflections:
+
+> "It really has saved me a lot of time, but at the same time I feel like my thinking has become shallower than before, because I have a certain dependence on it." (R28, translated from Chinese)
+
+The language of "dependence" (依赖) recurred across Chinese-language interviews, suggesting the phenomenon transcends cultural contexts.
 
 ### 4.3.2 Strategies for Managing the Loop
 
@@ -135,6 +168,12 @@ This counterintuitive statement—that argumentation would *increase* trust—re
 
 These statements, expressing wishes that AI would "argue" or "reject" user ideas, run counter to assumptions embedded in AI training toward helpfulness and user satisfaction. For sophisticated users, an AI that challenges their thinking may be more valuable than one that validates it—precisely because challenge signals independent reasoning capability.
 
+R31, a senior designer with experience at Amazon and creative agencies, articulated an explicit "anti-sycophancy strategy":
+
+> "The purpose of having you help me work is not to echo me... [AI] won't push back, it will just go along with the user." (R31)
+
+This designer had developed specific prompting techniques to elicit disagreement, recognizing that uncritical agreement undermined the collaborative value of AI assistance.
+
 ### 4.4.3 Navigating the Double Bind
 
 Users developed nuanced strategies to work around sycophancy concerns. These included:
@@ -164,6 +203,44 @@ R49's advice captured this stance eloquently:
 
 This formulation—AI as "reference" rather than "answer"—encapsulates the informed distrust stance that characterized many of our most sophisticated participants.
 
+## 4.6 Boundary Conditions: Users Who Did Not Exhibit Paradoxes
+
+To strengthen the theoretical validity of our framework, we examined participants who did *not* exhibit the paradoxes described above. Understanding these boundary conditions helps clarify when and for whom the Triple Paradox framework applies.
+
+### 4.6.1 Traditional Trust-Use Alignment
+
+Approximately one-third of participants (16 of 49, 32.7%) exhibited patterns consistent with traditional technology adoption models, where trust and use moved in tandem. R10, an MBA professor with a conservative approach to technology, exemplified this pattern:
+
+> "I might be more conservative in my views... Maybe ChatGPT is actually far more powerful than [I give it credit for], but I don't have very high trust in it." (R10, translated from Chinese)
+
+R10's low trust corresponded with low use—he employed AI only for "garbage tasks" that he considered unimportant. This traditional alignment suggests that the Trust-Use Paradox may be most pronounced among users who have both high engagement *and* sufficient experience to develop nuanced mental models of AI capabilities.
+
+### 4.6.2 High Trust Without Anxiety
+
+Not all heavy users experienced skill anxiety. R29, an AI entrepreneur building email management tools, maintained high trust and showed minimal concern about skill degradation:
+
+> "New critical thinking skills might come out as a result... People spend less time on Excel sheets, but they use the data from the Excel sheets to draw conclusions even more." (R29)
+
+R29 framed AI not as a replacement for human cognition but as a tool that could *elevate* cognitive work. This optimistic framing was more common among participants who (1) worked directly in AI/tech industries, (2) used AI primarily for tasks outside their core expertise, or (3) had shorter usage histories.
+
+### 4.6.3 Acceptance of AI Agreement
+
+The Sycophancy-Skepticism Tension was absent in over half our sample (27 of 49, 55.1%). Many participants simply did not notice or did not mind AI agreement. R26, an e-commerce entrepreneur in Malaysia, focused purely on output quality:
+
+> "Trust is just about results... If it helps me achieve my goal, I trust it." (R26)
+
+For such users, AI agreement was not a signal to be interpreted but simply a feature of the interaction. The sycophancy concern appears most salient among users who (1) seek AI as a verification or feedback mechanism, (2) have domain expertise that enables them to evaluate AI responses critically, and (3) value intellectual challenge in their work.
+
+**Table 5: Boundary Conditions for Paradox Applicability**
+
+| Paradox | More Likely When | Less Likely When |
+|---------|------------------|------------------|
+| Trust-Use Decoupling | High engagement + extended experience | Low engagement or short usage history |
+| Skill Anxiety Loop | Core skill tasks + high metacognitive awareness | Peripheral tasks + low awareness of cognitive offloading |
+| Sycophancy Tension | Using AI for verification/feedback + domain expertise | Using AI for generation only + novice in domain |
+
+These boundary conditions suggest that the Triple Paradox framework describes a particular mode of sophisticated AI engagement rather than a universal pattern. The paradoxes emerge most clearly among experienced users who have developed detailed mental models of AI capabilities and who use AI for cognitively demanding tasks within their areas of expertise.
+
 ---
 
-*Word Count: ~1,900 words (~5 pages in ICIS format)*
+*Word Count: ~2,400 words (~6 pages in ICIS format)*
